@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ravindra Devrani. I am a fullstack developer and experienced in Asp.net mvc and dot net core.
+- 👀 I’m interested in Asp.net mvc, .net core and angular projects.
+- 🌱 I’m currently learning ... Angular
+- 💞️ I’m looking to collaborate on Angular and Dot net core projects.
+- 📫 How to reach me ravindra.devrani003@gmail.com
