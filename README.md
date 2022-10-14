@@ -1,5 +1,5 @@
-- 👋 Ravindra Devrani is a fullstack developer and love to help with dot net stack technologies and angular.
-- 👀 I’m interested in Asp.net mvc, .net core and angular projects..
+- 👋 Ravindra Devrani is a fullstack developer and love to create applications with dot net stack technologies,angular and node.
 - 💞️ I’m looking to collaborate on Angular and Dot net core projects.
+- ⚡ In my free time I love to share my skills through youtube.
 - :tv: Follow my videos on https://www.youtube.com/channel/UCzTMzmLbuEWOUmpzo9vaV7Q
-- 📫 How to reach me ravindra.devrani003@gmail.com
+- 📫 How to reach me https://twitter.com/ravi_devrani
