@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindra Devrani</h1>
-<h3 align="center">Fullstack developer,technology enthusiast and youtuber from India</h3>
+<h3 align="center">Fullstack developer,technology enthusiast and a content creator from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rd003&label=Profile%20views&color=0e75b6&style=flat" alt="rd003" /> </p>
 
