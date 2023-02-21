@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindra Devrani</h1>
-<h3 align="center">Fullstack developer,technology enthusiast and a love to share about software development</h3>
+<h3 align="center">Dotnet fullstack developer,technology enthusiast and love to share my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rd003&label=Profile%20views&color=0e75b6&style=flat" alt="rd003" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dot net core, angular**
 
-- ⚡ Fun fact **Love cooking**
+- ⚡ Fun fact **Love cooking** and **Yoga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
