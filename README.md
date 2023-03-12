@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rd003&label=Profile%20views&color=0e75b6&style=flat" alt="rd003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ravi_devrani" target="blank"><img src="https://img.shields.io/twitter/follow/ravi_devrani?logo=twitter&style=for-the-badge" alt="ravi_devrani" /></a> </p>
+<p> 
+ <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzTMzmLbuEWOUmpzo9vaV7Q?style=social" decoding="async" class="r-16l9doz r-13qz1uu" style="max-width: 300px;">
+</p>
 
 - 🌱 I’m currently learning **Node js**
 
