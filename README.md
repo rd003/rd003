@@ -16,8 +16,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ravi_devrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi_devrani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCzTMzmLbuEWOUmpzo9vaV7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucztmzmlbuewoumpzo9vav7q" height="30" width="40" /></a>
+<a href="https://twitter.com/ravi_devrani" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
+</a>
+<a href="https://www.youtube.com/@ravindradevrani" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="youtube" style="margin-bottom: 5px;">
+</a>
+ <a href="https://ravindradevrani.medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/medium-%23292929.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="medium" style="margin-bottom: 5px;">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
