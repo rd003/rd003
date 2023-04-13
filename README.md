@@ -8,8 +8,6 @@
  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzTMzmLbuEWOUmpzo9vaV7Q?style=social" decoding="async" class="r-16l9doz r-13qz1uu" style="max-width: 300px;">
 </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Dot net core, angular**
 
 - ⚡ Fun fact **Love cooking** and **Yoga**
