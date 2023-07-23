@@ -9,8 +9,8 @@
 </p>
 
 - 💬 Ask me about **Dot net core, angular**
-
 - ⚡ Fun fact **Love cooking** and **Yoga**
+- 🙋‍♂️ Looking for **working in open source project/library**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
