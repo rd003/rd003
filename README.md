@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravindra Devrani</h1>
 <h3 align="center">Dotnet and angular developer, blogger and tech youtuber</h3>
 
-- 💬 Ask me about **Dot net core, angular**
-- ⚡ Fun fact **Love cooking** and **Yoga**
+- 💬 Ask me about **.NET, C#, SQL Server**
+- 💻Now days I am focusing more on databases and backend
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rd003&label=Profile%20views&color=0e75b6&style=flat" alt="rd003" /> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzTMzmLbuEWOUmpzo9vaV7Q?style=social" decoding="async" class="r-16l9doz r-13qz1uu" style="max-width: 300px;"> </p>
 
