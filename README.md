@@ -2,14 +2,14 @@
 <h3 align="center">Dotnet and angular developer, blogger and tech youtuber</h3>
 
 - 💬 Ask me about **.NET, C#, SQL Server**
-- 💻Now days I am focusing more on databases and backend
+- 💻 Now days I am focusing more on databases and backend
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rd003&label=Profile%20views&color=0e75b6&style=flat" alt="rd003" /> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzTMzmLbuEWOUmpzo9vaV7Q?style=social" decoding="async" class="r-16l9doz r-13qz1uu" style="max-width: 300px;"> </p>
 
 ## Connect with me
 - [Twitter](https://twitter.com/ravi_devrani)
 - [YouTube](https://www.youtube.com/@ravindradevrani)
-- [My blogs at medium.com](https://medium.com/@ravindradevrani)
+- [Blog](https://ravindradevrani.com/))
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rd003&show_icons=true&locale=en&layout=compact" alt="rd003" /></p>
