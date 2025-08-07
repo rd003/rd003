@@ -2,6 +2,7 @@
 <h3 align="center">Dotnet & Angular Fullstack Developer, Technical Blogger & YouTuber</h3>
 
 - I am mostly devoted to the Microsoft stack (C#, .NET, SQL Server), however, I also have a keen interest in`Node.js` and `Postgres` (Ocassionally I explore them too).
+- For frontent I use `Angular` most of the time but I also explore `React` occassionally.
 - Nowadays, I am focusing more on databases and backend development.
 - I have used the Windows operating system for the majority of my life, but nowadays I am doing a lot of my development work on Linux (Mint) as well.
 - I started contributing through technical YouTube videos, but nowadays I am writing a lot of technical blog posts.
