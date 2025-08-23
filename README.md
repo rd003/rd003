@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ravindra Devrani</h1>
 <h3 align="center">Fullstack Developer and Technical Content Creator</h3>
 
-- I am primarily devoted to the Microsoft stack (C#, .NET, SQL Server). However, I also have a keen interest in `Node.js`, especially because I work with frontend JavaScript frameworks and libraries. I love .NET and C#—their maturity, modern features, performance, and continuous improvements make them my favorite. I am pragmatic about languages and can switch to others when needed.
-- For frontend development, `Angular` is my first choice, though I am increasingly comfortable with `React`.
-- I am most experienced with `SQL Server`. `PostgreSQL` is my alternative and open-source option. I can also work with `MySQL` when required.
-- I have experience with NoSQL databases such as `MongoDB`.
-- I have used Windows for most of my life, but nowadays I do a lot of my development work on Linux (Mint) as well.
-- I contribute to the developer community through technical YouTube videos, and more recently, by writing in-depth technical blog posts.
+- **Backend:** C#/.NET (primary), node js/express.js (alternative)
+- **Front-end:** Angular (primary), ReactJs (alternate)
+- **Database**
+    - **SQL:** SQL Server, PostgreSQL, MySql (alternative).
+    - **NO-SQL:** MongoDb, Redis
+- **Operating System:** Window and Linux(debian family)
+- I am pragmatic about languages and databases.
+- I contribute to the developer community through technical YouTube videos and blog posts.
 - I also have a strong interest in computer hardware, especially energy-efficient systems.
 
 
