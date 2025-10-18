@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravindra Devrani</h1>
 <h3 align="center">Fullstack Developer and Technical Content Creator</h3>
 
-- **Backend:** C#/.NET (primary), node js/express.js (alternative)
+- **Backend:** C#/.NET (primary), node js/fastapi (alternative)
 - **Front-end:** Angular (primary), ReactJs (alternate)
 - **Database**
     - **SQL:** SQL Server, PostgreSQL, MySql (alternative).
-    - **NO-SQL:** MongoDb, Redis
+    - **NO-SQL:** MongoDb, Redis, CosmosDB
 - **Operating System:** Window and Linux(debian family)
 - I am pragmatic about languages and databases.
 - I contribute to the developer community through technical YouTube videos and blog posts.
