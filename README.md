@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravindra Devrani</h1>
 <h3 align="center">Fullstack Developer and Technical Content Creator</h3>
 
-- **Backend:** C#/.NET (primary), node js/fastapi (alternative)
+- **Backend:** C#/.NET (primary), node js (alternative)
 - **Front-end:** Angular (primary), ReactJs (alternate)
 - **Database**
     - **SQL:** SQL Server, PostgreSQL, MySql (alternative).
